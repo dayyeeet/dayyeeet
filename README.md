@@ -4,6 +4,6 @@
 
 ###
 
-I'm David from Germany.<br><br>In my free time I work on [SimpleCloud](https://github.com/thesimplecloud)
+Kotlin, Java, Go and Web developer 🌟
 
 ###
